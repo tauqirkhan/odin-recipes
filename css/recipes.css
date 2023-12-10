@@ -1,0 +1,46 @@
+body{
+    background-color: brown;
+}
+.h1 {
+    margin: -10px -8px 0px;
+    text-align: center;
+    background-color: orange;
+    font-size: 50px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    display: inline-block;
+    border: 5px solid pink;
+    margin-top: -480px;
+    margin-left: 50px;
+}
+
+.title{
+    text-align:center;
+    margin: 10px auto 0px;
+    color: pink;
+    font-size: 45px;
+    text-decoration: underline;
+}
+
+.p {
+    display: inline-block;
+    margin: 50px 0px 0px 550px;
+    width: 1300px;
+    font-size: 40px;
+    padding: 0px 20px 0px 5px;
+    
+}
+
+.h2 {
+    font-size: 45px;
+    color: white;
+    margin-left: 80px;
+}
+
+.list {
+    font-size: 40px;
+    margin-left: 250px;
+}
