@@ -10,11 +10,16 @@ body{
 
 img {
     height: auto;
+    vertical-align: top;
     width: 400px;
     display: inline-block;
     border: 5px solid pink;
-    margin-top: -480px;
     margin-left: 50px;
+}
+.cake {
+    height: auto;
+    margin-left: 0px;
+    width: 500px;
 }
 
 .title{
@@ -27,7 +32,7 @@ img {
 
 .p {
     display: inline-block;
-    margin: 50px 0px 0px 550px;
+    margin: 50px 0px 0px 20px;
     width: 1300px;
     font-size: 40px;
     padding: 0px 20px 0px 5px;
